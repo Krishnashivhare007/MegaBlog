@@ -6,4 +6,8 @@ import LogoutBtn from './LogoutBtn';
 import RTE from './RTE';
 import Login from './Login';
 import Signup from './Signup';
-export {Header,Footer,Container,Logo,LogoutBtn,RTE,Login,Signup};
+import PostForm from './PostForm/PostForm';
+import PostCard from './PostCard';
+
+    
+export {Header,Footer,Container,Logo,LogoutBtn,RTE,Login,Signup,PostForm,PostCard};
